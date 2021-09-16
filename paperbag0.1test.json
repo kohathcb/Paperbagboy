@@ -9,11 +9,11 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Base Background"
+        "value": "gray"
       },
       {
-        "trait_type": "Skin",
-        "value": "entinty"
+        "trait_type": "Gag",
+        "value": "brown"
       },
       {
         "trait_type": "Cloth",
