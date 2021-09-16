@@ -1,0 +1,74 @@
+{
+    "name": "PaperBag #0.1",
+    "symbol": "Bag",
+    "description": "Paperbagboys.",
+    "seller_fee_basis_points": 500,
+    "image": "images//paperbag0.1test.png",
+    "external_url": "https://app.aurory.io/aurorian/2021/7682",
+    "edition": "2021",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Base Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "entinty"
+      },
+      {
+        "trait_type": "Cloth",
+        "value": "no trait"
+      },
+      {
+        "trait_type": "headwear",
+        "value": "No Trait"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "no Mouth"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "No Trait"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "no Eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "No Trait"
+      },
+
+      {
+        "trait_type": "Type",
+        "value": "Paperbagboy"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "generation",
+        "value": 0
+      },
+      {
+        "display_type": "number",
+        "trait_type": " sequence",
+        "value": 0.1
+      }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3MTmc44cWxEsDaXQ66PJwVY5c7iTopYXE3dNyKP5bgYz",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
