@@ -1,47 +1,47 @@
 {
-    "name": "PaperBagBoy #24",
+ "name": "PaperBagBoy #257",
     "symbol": "Bag",
     "description": "Paperbagboys.",
     "seller_fee_basis_points": 500,
-    "image": "images//paperbagboy24.png",
-    "external_url": "http://paperbagboysnft.com/imagess//paperbagboy#24.png",
+    "image": "images//paperbagboy#257.png",
+    "external_url": "http://paperbagboysnft.com/imagess//paperbagboy#91.png",
     "edition": "2021",
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Lavender"
+        "value": "Yellow"
       },
       {
         "trait_type": "Bag",
-        "value": "Brown"
+        "value": "Brown-Private emblem"
       },
       {
         "trait_type": "Skin",
-        "value": "Caucasian"
+        "value": "White"
       },
       {
         "trait_type": "Headwear",
-        "value": "No Trait"
+        "value": "Military Hat"
       },
       {
         "trait_type": "Mouth",
-        "value": "Base Mouth Purple"
+        "value": "Base"
       },
       {
         "trait_type": "Shirt",
-        "value": "Blue"
+        "value": "Green Camo"
       },
       {
         "trait_type": "Eyes",
-        "value": "Purple eye shadow-Blue violet eyes"
+        "value": "Blue Eyes"
       },
       {
-        "trait_type": "Sex",
-        "value": "Female"
+        "trait_type": "Species",
+        "value": "Human"
       },
       {
         "trait_type": "Hair",
-        "value": "Blonde"
+        "value": "No Trait"
       },
       {
         "trait_type": "Type",
@@ -52,17 +52,18 @@
         "trait_type": "generation",
         "value": 1
       },
+     
       {
         "display_type": "number",
         "trait_type": " sequence",
-        "value": 24
+        "value": 257
       }
     ],
     "properties": {
       "category": "image",
       "files": [
         {
-          "uri": "http://paperbagboysnft.com/imagess//paperbagboy#24.png",
+          "uri": "http://paperbagboysnft.com/imagess//paperbagboy#257.png",
           "type": "image/png"
         }
       ],

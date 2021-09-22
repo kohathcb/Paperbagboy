@@ -3,7 +3,7 @@
     "symbol": "Bag",
     "description": "Paperbagboys.",
     "seller_fee_basis_points": 500,
-    "image": "images//paperbag0.1test.png",
+    "image": "images//paperbagboy#25.png",
     "external_url": "http://paperbagboysnft.com/imagess//paperbagboy#25.png",
     "edition": "2021",
     "attributes": [
@@ -36,7 +36,7 @@
         "value": "ALL-WHITE"
       },
       {
-        "trait_type": "Sex",
+        "trait_type": "Species",
         "value": "Bot"
       },
       {
@@ -47,6 +47,7 @@
         "trait_type": "Type",
         "value": "Paperbagboy"
       },
+      
       {
         "display_type": "number",
         "trait_type": "generation",

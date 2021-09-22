@@ -1,15 +1,15 @@
 {
-    "name": "PaperBagBoy #24",
+ "name": "PaperBagBoy #26",
     "symbol": "Bag",
     "description": "Paperbagboys.",
     "seller_fee_basis_points": 500,
-    "image": "images//paperbagboy24.png",
-    "external_url": "http://paperbagboysnft.com/imagess//paperbagboy#24.png",
+    "image": "images//paperbagboy#26.png",
+    "external_url": "http://paperbagboysnft.com/imagess//paperbagboy#26.png",
     "edition": "2021",
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Lavender"
+        "value": "Key lime Green"
       },
       {
         "trait_type": "Bag",
@@ -17,7 +17,7 @@
       },
       {
         "trait_type": "Skin",
-        "value": "Caucasian"
+        "value": "White"
       },
       {
         "trait_type": "Headwear",
@@ -25,7 +25,7 @@
       },
       {
         "trait_type": "Mouth",
-        "value": "Base Mouth Purple"
+        "value": "Purple Lipstick Base"
       },
       {
         "trait_type": "Shirt",
@@ -33,15 +33,15 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Purple eye shadow-Blue violet eyes"
+        "value": "Purple Eye Shadow and Blue-Violet eyes "
       },
       {
-        "trait_type": "Sex",
-        "value": "Female"
+        "trait_type": "Species",
+        "value": "Human"
       },
       {
         "trait_type": "Hair",
-        "value": "Blonde"
+        "value": "No Trait"
       },
       {
         "trait_type": "Type",
@@ -52,17 +52,18 @@
         "trait_type": "generation",
         "value": 1
       },
+     
       {
         "display_type": "number",
         "trait_type": " sequence",
-        "value": 24
+        "value": 26
       }
     ],
     "properties": {
       "category": "image",
       "files": [
         {
-          "uri": "http://paperbagboysnft.com/imagess//paperbagboy#24.png",
+          "uri": "http://paperbagboysnft.com/imagess//paperbagboy#26.png",
           "type": "image/png"
         }
       ],
